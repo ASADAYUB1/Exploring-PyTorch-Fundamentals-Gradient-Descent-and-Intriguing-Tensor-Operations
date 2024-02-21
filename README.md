@@ -1,1 +1,2 @@
 # Exploring-PyTorch-Fundamentals-Gradient-Descent-and-Intriguing-Tensor-Operations
+This repository comprises code files where I explore PyTorch basics, including tensors, gradients, autograd, and cover topics such as linear regression, gradient descent from scratch, and the usage of PyTorch modules like nn.Linear and nn.functional. Additionally, I demonstrate the application of various tensor operations. 
